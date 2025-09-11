@@ -1,10 +1,10 @@
-# Welcome to Seigr-lab 🌍
+# Welcome to Seigr-lab
 
 **Seigr-lab** is dedicated to pioneering sustainable, decentralized data ecosystems inspired by biomimicry and eco-conscious principles. By developing tools that emphasize resilience, modularity, and transparency, Seigr-lab is redefining the intersection of technology and nature.
 
 ---
 
-## 🔍 What is Seigr?
+## What is Seigr?
 
 Seigr is our flagship ecosystem, integrating decentralized data management, adaptive protocols, and regenerative computing inspired by natural systems like mycelium networks. Our primary project, **Seigr-EcoSystem**, showcases the potential of sustainable, distributed data networks and sets the foundation for a new era of eco-friendly computing.
 
@@ -16,7 +16,7 @@ Seigr is our flagship ecosystem, integrating decentralized data management, adap
 
 ---
 
-## 🚀 Our Projects
+## The Projects
 
 ### [Seigr-EcoSystem](https://github.com/Seigr-lab/Seigr-EcoSystem) (WIP: will remain private until fully developed)
 A biomimetic data management framework that supports eco-conscious encoding, secure capsule-based data storage, and adaptive network intelligence. The Seigr-EcoSystem is the foundation for decentralized, sustainable digital applications.
@@ -29,13 +29,5 @@ A platform for monitoring and analyzing bee health and hive activity. BeehiveR i
 
 ---
 
-## 🌱 Join Us
-
-Seigr-lab is an open, collaborative community committed to eco-friendly computing and decentralized innovation. We invite developers, artists, and ecologists to contribute to a sustainable future.
-
-### Get Involved
-- **Contribute**: We welcome contributions across various domains. [Explore our projects](https://github.com/Seigr-lab) to find one that matches your skills.
-- **Share Ideas**: Got an idea? Share it in the `#ideas` category of our [Discussions](https://github.com/Seigr-lab/Seigr-EcoSystem/discussions) section.
-- **Support**: Consider [sponsoring](https://github.com/sponsors/Seigr-lab) our projects to help drive eco-conscious innovation forward.
-
-Together, we can build a digital ecosystem where technology and nature coexist. Welcome to Seigr-lab! 🌿
+## Support
+- **Sponsor** [sponsoring](https://github.com/sponsors/Seigr-lab) Seigr projects to help drive eco-conscious innovation forward.
