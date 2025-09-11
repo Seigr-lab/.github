@@ -18,7 +18,7 @@ Seigr is our flagship ecosystem, integrating decentralized data management, adap
 
 ## 🚀 Our Projects
 
-### [Seigr-EcoSystem](https://github.com/Seigr-lab/Seigr-EcoSystem)
+### [Seigr-EcoSystem](https://github.com/Seigr-lab/Seigr-EcoSystem) (WIP: will remain private until fully developed)
 A biomimetic data management framework that supports eco-conscious encoding, secure capsule-based data storage, and adaptive network intelligence. The Seigr-EcoSystem is the foundation for decentralized, sustainable digital applications.
 
 ### [Sonisk Seigr Studio](https://github.com/Seigr-lab/Sonisk-Seigr-Studio) (coming soon)
